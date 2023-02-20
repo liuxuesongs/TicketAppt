@@ -1,5 +1,6 @@
-## 功能介绍 
-- 博物馆门票预约小程序，分别实现参观者和管理人员两种不同人群的系统交互界面，实现这两种不同人群的操作需求。整个系统包括：门票预约模块、活动预约模块、用户模块、公告模块。 
+## 功能介绍
+- 门票预约小程序：对于一些大型的活动场所，为了实现人员的有序进场以及方便管理就需要以预约的方式实现有节奏的分流措施。一方面可以减少人流的集中性，另外一方面也可以避免人员过多从而对于活动开展造成较差的体验，为了满足这一需求可以进行合肥小程序开发产品打造，通过打造一款门票预约小程序来实现上述的功能需
+- 门票预约小程序，分别实现参观者和管理人员两种不同人群的系统交互界面，实现这两种不同人群的操作需求。整个系统包括：门票预约模块、活动预约模块、用户模块、公告模块。 
 - 管理员可以设置、编辑博物馆信息，包括博物馆简介、预约须知、参观路线、参观礼仪等文字及图片信息，参观者用户可以对信息进行查看。
 后台管理人员可以发布、修改、删除门票信息，门票信息包括门票日期、时段、票数等信息。对于普通用户，仅展示门票日期在当前时间之后，且有余票的可预约门票， 用户可以选择好日期和时段，填写相关的必要身份信息（支持录入多人信息）进行门票预约。 
 - 前后端代码完整，采用腾讯提供的小程序云开发解决方案，无须服务器和域名。
@@ -9,7 +10,7 @@
 - 详尽的门票预约数据：支持门票预约名单数据导出Excel，打印
 
 
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/125874588/220209280-b5e54423-ca13-49fc-a2f3-86e668555afd.png)
  
 
 
@@ -20,17 +21,20 @@
 - 云开发技术采用腾讯内部链路，没有被黑客攻击的风险，不会 DDOS攻击，节省防火墙费用，安全性高且免维护。
 - 资源承载力可根据业务发展需要随时弹性扩展。  
 
-![输入图片说明](demo/%E5%8D%9A%E7%89%A9%E9%A6%86%E9%97%A8%E7%A5%A8%E9%A2%84%E7%BA%A6%E6%A6%82%E8%A6%81%E8%AE%BE%E8%AE%A1%20(2).jpg)
+ ![image](https://user-images.githubusercontent.com/125874588/220209295-5694b848-327b-4d79-9c54-1838a260dcf9.png)
+
 
 ## 作者
 - 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信: 
  
-![输入图片说明](demo/author-base.png)
+ ![image](https://user-images.githubusercontent.com/125874588/220209307-c94ff82e-5dcc-4733-99e1-7032175a1c51.png)
+
 
 
 ## 演示 
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+ ![image](https://user-images.githubusercontent.com/125874588/220209289-178b5426-9526-4217-920a-3c31f7b40fb9.png)
+
 
 ## 安装
 
@@ -40,24 +44,25 @@
 
 
 ## 截图
- ![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/2%E9%97%A8%E7%A5%A8%E9%A2%84%E7%BA%A6.png)
- ![输入图片说明](demo/3%E9%97%A8%E7%A5%A8%E9%A2%84%E7%BA%A6%E8%A7%84%E5%88%99.png)
-![输入图片说明](demo/4%E9%97%A8%E7%A5%A8%E9%A2%84%E7%BA%A6%E6%97%B6%E6%AE%B5%E9%80%89%E6%8B%A9.png)
-![输入图片说明](demo/5%E9%97%A8%E7%A5%A8%E9%A2%84%E7%BA%A6%E4%BF%A1%E6%81%AF%E5%A1%AB%E5%86%99.png)
-![输入图片说明](demo/6%E9%97%A8%E7%A5%A8%E9%A2%84%E7%BA%A6%E6%B7%BB%E5%8A%A0%E5%A4%9A%E4%B8%AA%E9%A2%84%E7%BA%A6%E4%BA%BA.png)
-![输入图片说明](demo/7%E6%88%91%E7%9A%84%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/8%E6%88%91%E7%9A%84%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/9%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
-![输入图片说明](demo/10%E5%85%AC%E5%91%8A.png)
-![输入图片说明](demo/11%E6%B4%BB%E5%8A%A8%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/12%E9%A2%84%E7%BA%A6%E6%97%A5%E5%8E%86.png)
+ ![image](https://user-images.githubusercontent.com/125874588/220209319-dfef366e-b41e-43ab-b763-e8494647a738.png)
+![image](https://user-images.githubusercontent.com/125874588/220209324-eeab976c-aa19-4f17-9cbb-1410d34f558e.png)
+![image](https://user-images.githubusercontent.com/125874588/220209341-3db8c36d-ff86-4272-a022-79c74bf7c16d.png)
+![image](https://user-images.githubusercontent.com/125874588/220209351-16c51000-01fd-4aa4-a0d0-78a0ed6a146c.png)
+![image](https://user-images.githubusercontent.com/125874588/220209356-81b79c15-9d64-4667-ab83-9faf43f590aa.png)
+![image](https://user-images.githubusercontent.com/125874588/220209360-d41c4b28-4c12-465a-bdbd-fe09cdd3d1f7.png)
+![image](https://user-images.githubusercontent.com/125874588/220209364-47e7caa9-60f4-42a6-8008-d18a34c22c78.png)
+![image](https://user-images.githubusercontent.com/125874588/220209374-35bb87f8-053a-4f2a-92b5-0601061a895e.png)
+![image](https://user-images.githubusercontent.com/125874588/220209380-46a61dd2-90a6-4312-92ba-7e6cfa02dd85.png)
+![image](https://user-images.githubusercontent.com/125874588/220209389-52b4a2f7-8b8b-42f7-a972-2d1108cd322b.png)
+![image](https://user-images.githubusercontent.com/125874588/220209393-993116a0-fb40-44de-9f31-5e581becc44c.png)
+![image](https://user-images.githubusercontent.com/125874588/220209399-1730222c-da82-425c-b42d-cac56810a3d5.png)
+
 
 ## 后台管理系统截图 
 - 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
-![输入图片说明](demo/20%E5%90%8E%E5%8F%B0-%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/21%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/22%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E8%A7%84%E5%88%99%E8%AE%BE%E7%BD%AE.png)
-![输入图片说明](demo/23%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%97%B6%E6%AE%B5%E8%AE%BE%E7%BD%AE.png)
-![输入图片说明](demo/24%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%95%B0%E6%8D%AE%E9%A1%B9%E8%AE%BE%E7%BD%AE.png)
-![输入图片说明](demo/25%E5%90%8E%E5%8F%B0-%E5%85%AC%E5%91%8A%E7%AE%A1%E7%90%86.png)
+ ![image](https://user-images.githubusercontent.com/125874588/220209407-1b2d221a-af54-47dd-bc62-216e886a7761.png)
+![image](https://user-images.githubusercontent.com/125874588/220209414-7a9746b5-0e6d-4399-beca-ef027b7fb953.png)
+![image](https://user-images.githubusercontent.com/125874588/220209427-c8bde45c-1eeb-4eb5-99d3-52093b642cee.png)
+![image](https://user-images.githubusercontent.com/125874588/220209429-5598a81c-947c-4cd8-8869-caebe99018be.png)
+![image](https://user-images.githubusercontent.com/125874588/220209433-214d11b8-e3c4-4884-88b8-e54fb0db2dc6.png)
+![image](https://user-images.githubusercontent.com/125874588/220209436-8eb81501-d932-4947-a820-66a0f4c86b03.png)
